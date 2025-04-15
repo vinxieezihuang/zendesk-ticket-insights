@@ -1,0 +1,9 @@
+name: zendesk-insights
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - matplotlib
+  - seaborn
+  - jupyter
